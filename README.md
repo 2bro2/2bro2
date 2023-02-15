@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=next&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/></a>&nbsp 
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Grpc-4FC08D?style=flat-square&logo=Grpc&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GraphQL-4FC08D?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp 
   <br>
@@ -34,6 +36,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Confluence-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white"/></a>&nbsp 
 </p>
 
