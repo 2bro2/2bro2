@@ -1,9 +1,9 @@
 
 ### Hi Guys! 👋
-This is DooHyeong Lee working at NCSoft as a junior frontend engineer in South Korea.  
-It's been almost 4 years since I started to develop the services. 
+This is DooHyeong Lee working at NCSoft as a junior frontend engineer in South Korea.
+It's been almost 4 years since I started to develop web application services. 
 
-Here's ✨skill set✨:
+Here's ✨my skill set✨:
 
 - Javascript / TypeScript
 - ReactJS / VueJS / NextJS / NuxtJS / Angular / Ionic
