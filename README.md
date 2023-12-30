@@ -8,7 +8,7 @@ Here's ✨my skill set✨:
 - Javascript / TypeScript
 - ReactJS / VueJS / NextJS / NuxtJS / Angular / Ionic / Lit
 - Storybook / Chromatic
-- Vite / Webpack / Learna
+- Vite / Webpack / Lerna
 - PNPM / Yarn
 - Jest / Vitest / React Testing Library / Vue Testing Library
 - GraphQL / GRPC / RestAPI
